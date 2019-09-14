@@ -6,6 +6,6 @@ This is to carry out sentiment analysis with Twitter data using the following Py
 * **Matplotlib** 
 * **Seaborn** 
 * **Textblob** in four steps - 
-  * **Extracting Twitter data **
-  * **Visualization and Basic Statistics **
+  * **Extracting Twitter data**
+  * **Visualization and Basic Statistics**
   * **Sentiment Analysis**
