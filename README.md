@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Twitter-Data-using-Tweepy-using-Tweepy
+# Sentiment Analysis of Twitter Data using Tweepy
