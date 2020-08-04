@@ -1,5 +1,5 @@
 # Sentiment Analysis of Twitter Data using Tweepy
-This is to carry out sentiment analysis with Twitter data using the following Python packages - 
+<div align="justify">This is to carry out sentiment analysis with Twitter data using the following Python packages - 
 * **NumPy** 
 * **Pandas**
 * **Tweepy** 
@@ -9,3 +9,4 @@ This is to carry out sentiment analysis with Twitter data using the following Py
   * **Extracting Twitter data**
   * **Visualization and Basic Statistics**
   * **Sentiment Analysis**
+</div>
